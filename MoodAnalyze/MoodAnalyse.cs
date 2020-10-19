@@ -19,5 +19,7 @@ namespace MoodAnalyze
             _mood = regexExp.IsMatch(msg) ? "SAD" : "HAPPY";
             return _mood;
         }
+
+
     }
 }

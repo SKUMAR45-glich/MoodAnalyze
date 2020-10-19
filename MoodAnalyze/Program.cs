@@ -10,4 +10,6 @@ namespace MoodAnalyze
             MoodAnalyse mood = new MoodAnalyse();
         }
     }
+
+
 }
