@@ -20,6 +20,5 @@ namespace MoodTesting
             Assert.AreEqual(mood, result);
         }
 
-
     }
 }

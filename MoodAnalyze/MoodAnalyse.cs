@@ -20,6 +20,5 @@ namespace MoodAnalyze
             return _mood;
         }
 
-
     }
 }

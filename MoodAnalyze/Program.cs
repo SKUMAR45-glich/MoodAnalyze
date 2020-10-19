@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace MoodAnalyze
 {
     class Program
@@ -10,6 +9,5 @@ namespace MoodAnalyze
             MoodAnalyse mood = new MoodAnalyse();
         }
     }
-
 
 }
